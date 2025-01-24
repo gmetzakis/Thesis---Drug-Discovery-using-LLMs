@@ -1,6 +1,6 @@
 
 
-# Drug Discovery with Machine Learning
+# Drug Discovery using LSTMs
 
 This repository contains the code and resources used in my thesis on drug discovery using machine learning. The project leverages cheminformatics tools and deep learning models to identify and predict potential drug candidates.
 
